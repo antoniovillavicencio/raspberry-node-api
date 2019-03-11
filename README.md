@@ -171,10 +171,3 @@ Listo! Si visitas la URL que proporcionó Dataplicity podrás acceder a tu API h
 Felicidades! Has logrado configurar tu Raspberry para que pueda alojar tu aplicación de Node y la haga pública mediante una URL HTTPS. Ya puedes acceder a tu API desde cualquier sitio con internet. Una ventaja adicional de la Raspberry es la gran variedad de puertos digitales y analógicos con los que cuenta. En Node.js hay un módulo llamado [onoff](https://www.npmjs.com/package/onoff) que te permite controlar y acceder a estos puertos desde tu aplicación de Node. Esto significa que puedes leer sensores, controlar aparatos electrónicos, manejar motores y un sinfín de cosas más mediante peticiones HTTP de manera segura. Imagina una API que te permita apagar las luces de tu casa! Lo que hiciste hasta ahora es una interfaz que permite conectar tu software con el mundo físico. 
 
 Compárte tus proyectos, ideas, inquietudes y lo que se te ocurra a tonyvcj@gmail.com
-
-## Fuentes
-https://blog.cloudboost.io/how-to-run-a-nodejs-web-server-on-a-raspberry-pi-for-development-3ef9ac0fc02c
-https://medium.com/@andrew.nease.code/set-up-a-self-booting-node-js-eb56ebd05549
-https://eladnava.com/binding-nodejs-port-80-using-nginx/
-https://www.raspberrypi.org/documentation/remote-access/access-over-Internet/
-
