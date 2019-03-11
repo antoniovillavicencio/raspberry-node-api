@@ -127,13 +127,13 @@ Hasta ahora podemos acceder al servidor en la RPi desde la misma red. Si queremo
 
 Primero, necesitamos crear una cuenta gratuita en Dataplicity. Una vez registrado, te mostrará un comando que debes de correr desde tu RPi. 
 
-![15522541018833](media/15522705838459/15522541018833.jpg)
+![15522541018833](https://i.ibb.co/KKxNQkw/15522541018833.jpg)
 
 Al terminar de instalar el agente de Dataplicity, te mostrará una URL desde donde podrás administrar tu dispositivo. También puedes acceder a ella desde la sección *Devices* del sitio web de Dataplicity. 
 
 Habilita la opción de `wormhole` en el panel de configuración. La dirección que te proporciona Dataplicity habilita el puerto 80 del localhost. 
 
-![Screen Shot 2019-03-11 at 12.10.15 A -w350](media/15522705838459/Screen%20Shot%202019-03-11%20at%2012.10.15%20AM.png)
+![Screen Shot 2019-03-11 at 12.10.15 A](https://i.ibb.co/Nj4nNfg/Screen-Shot-2019-03-11-at-12-10-15-AM.png)
 
 Para configurar el puerto de tu RPi y ligarlo con el puerto de Node, necesitamos [nginx](https://www.nginx.com/). Desde la consola de RPi:
 
